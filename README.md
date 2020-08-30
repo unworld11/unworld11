@@ -20,4 +20,4 @@
 2. [Reddit](https://www.reddit.com/user/Vedanta11)
 
 
-![gif](https://media1.giphy.com/media/P0RWkdsRpK7ss/giphy.gif)
+![gif](https://media3.giphy.com/media/SpoZWVAYlMCMGcLfqU/200w.webp?cid=ecf05e478olqkw6c9dxiy0u517iaew0ta82zrbol8ij3fzd4&rid=200w.webp)

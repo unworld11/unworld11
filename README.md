@@ -1,4 +1,4 @@
-## Vedanta SP
+# Vedanta SP
 
 ##### I am a CompSci Student and totally in love with everything that challenges me.
 

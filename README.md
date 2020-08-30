@@ -5,7 +5,10 @@
 ### Languages I know
 1. Python
 2. C++
-3. JavaScript
+3. C
+4. JavaScript
+5. C#
+
 
 ### Learning 
 1. Kotlin

@@ -19,7 +19,7 @@
 #### I aspire to be a full stack developer and need a little help with front-end.
 
 ### How to reach me:
-* [Instagram](https://www.instagram.com/_vedanta11/)
+* [Instagram](https://www.instagram.com/notvedanta/)
 * [Reddit](https://www.reddit.com/user/Vedanta11)
 
 

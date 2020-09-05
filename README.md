@@ -14,7 +14,7 @@
 
 
 ### Learning 
-* Angular JS
+* Angular 
 
 #### I aspire to be a full stack developer and need a little help with front-end.
 

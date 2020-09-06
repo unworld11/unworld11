@@ -11,10 +11,11 @@
 * C
 * JavaScript
 * C#
-
+* TypeScript
+* Angular
 
 ### Learning 
-* Angular 
+* Kotlin
 
 #### I aspire to be a full stack developer and need a little help with front-end.
 

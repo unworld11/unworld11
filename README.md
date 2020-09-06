@@ -3,7 +3,8 @@
 ![gif](https://media3.giphy.com/media/SpoZWVAYlMCMGcLfqU/200w.webp?cid=ecf05e478olqkw6c9dxiy0u517iaew0ta82zrbol8ij3fzd4&rid=200w.webp)
 
 #### I am a CompSci Student and totally in love with everything that challenges me.
-![counter](https://komarev.com/ghpvc/?username=unworld11)
+![counter](https://komarev.com/ghpvc/?username=unworld11
+[![Join the chat at https://gitter.im/publiclab/publiclab](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/publiclab/publiclab)
 
 ### Languages I know
 * Python

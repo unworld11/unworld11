@@ -23,6 +23,6 @@
 ### How to reach me:
 * [Instagram](https://www.instagram.com/headfullofbullets/)
 * [Reddit](https://www.reddit.com/user/Vedanta11)
-* [Mail](vedant.vasu1111@gmail.com)
+* vedant.vasu1111@gmail.com
 
 

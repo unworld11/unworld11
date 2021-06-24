@@ -25,4 +25,5 @@
 * [Reddit](https://www.reddit.com/user/Vedanta11)
 * vedant.vasu1111@gmail.com
 
-
+### Certificates
+https://www.freecodecamp.org/certification/unworld/responsive-web-design

@@ -4,7 +4,7 @@
 
 #### I am a CompSci Student and totally in love with everything that challenges me.
 ![counter](https://komarev.com/ghpvc/?username=unworld11)
-[![Join the chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/unworld11)]
+[![Join the chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/unworld11)
 
 ### Languages I know
 * Python

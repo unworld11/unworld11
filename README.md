@@ -19,6 +19,7 @@
 ### How to reach me:
 * [Instagram](https://www.instagram.com/headfullofbullets/)
 * [Reddit](https://www.reddit.com/user/Vedanta11)
+* [Linkedin](https://www.linkedin.com/in/vedantasp/)
 * vedant.vasu1111@gmail.com
 
 ### Certificates

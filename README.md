@@ -1,7 +1,5 @@
 # Vedanta SP
 
-
-#### Currently working on flutter and firebase
 #### AppDev | Flutter | SwiftUI | ML
 
 ![counter](https://komarev.com/ghpvc/?username=unworld11)

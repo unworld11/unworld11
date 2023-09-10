@@ -2,7 +2,7 @@
 
 
 #### Currently working on flutter and firebase
-#### Full Stack | Flutter | ML
+#### AppDev | Flutter | SwiftUI | ML
 
 ![counter](https://komarev.com/ghpvc/?username=unworld11)
 

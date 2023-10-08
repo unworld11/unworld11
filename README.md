@@ -6,20 +6,12 @@
 ![counter](https://komarev.com/ghpvc/?username=unworld11)
 
 ### Languages I know
-* Python
-* C++
-* C
-* JavaScript
-* C#
-* TypeScript
-* Angular
-* Flutter
+* Python, C++, Flutter, SwiftUI, C
 
 ### How to reach me:
-* [Instagram](https://www.instagram.com/headfullofbullets/)
+* [Instagram](https://www.instagram.com/vedanta.alt/)
 * [Reddit](https://www.reddit.com/user/Vedanta11)
 * [Linkedin](https://www.linkedin.com/in/vedantasp/)
 * vedant.vasu1111@gmail.com
 
-### Certificates
-https://www.freecodecamp.org/certification/unworld/responsive-web-design
+
